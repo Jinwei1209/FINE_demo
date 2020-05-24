@@ -13,8 +13,8 @@ To run the code, simply
 ```
 python demo_fine_challenge_2016.py
 ```
-or
+and
 ```
-python demo_fine_challenge_2016.py
+python demo_fine_ich_simu.py
 ```
 
