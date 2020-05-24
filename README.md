@@ -11,5 +11,10 @@ This code requires the following:
 ## Usage
 To run the code, simply
 ```
-git status
-'''
+python demo_fine_challenge_2016.py
+```
+or
+```
+python demo_fine_challenge_2016.py
+```
+
