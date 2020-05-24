@@ -4,5 +4,6 @@ This repo contains demo code for the paper, [Fidelity imposed network edit (FINE
 ## Dependencies
 This code requires the following:
 
- - Item 1
- - Item 2
+ - python 3.*
+ - TensorFlow v1.9+
+ - Keras v2.2.2+
