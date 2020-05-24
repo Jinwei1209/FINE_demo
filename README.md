@@ -19,5 +19,5 @@ python demo_fine_ich_simu.py
 ```
 
 ## Contact
-
+To ask questions, pleasae contact jz853@cornell.edu
 
