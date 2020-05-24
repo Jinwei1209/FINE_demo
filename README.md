@@ -7,3 +7,9 @@ This code requires the following:
  - python 3.*
  - TensorFlow v1.9+
  - Keras v2.2.2+
+ 
+## Usage
+To run the code, simply
+```
+git status
+'''
